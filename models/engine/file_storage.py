@@ -12,7 +12,8 @@
 # from models.review import Review
 #
 #
-# class FileStorage:
+class FileStorage:
+    pass
 #     """
 #     Serializes instances to a JSON file and deserializes JSON file to instances
 #     """
